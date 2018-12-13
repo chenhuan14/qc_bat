@@ -1,6 +1,8 @@
 # QuarkChain 测试网2.0 Windows 一键启动脚本
 
 ## 使用说明
+如果有问题情联系原作者
+
 ### 安装Docker for Windows
 Docker 是一个轻量级、跨平台的虚拟机技术，小白用户只需要知道用Docker 可以在 Windows下运行 Linux系统就可以了！
 1. 前往Docker官方下载 Docker for Windows，系统最低要求为64位 Windows 10 Pro版本（Win 10 家庭版可以直接升级）。安装完成启动，中途会让你开启Hyper-V，确认，重启电脑。
